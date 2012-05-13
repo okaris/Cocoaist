@@ -14,9 +14,11 @@
 	<div id="Container">
 		<a href="{{ wiki.base_path }}" id="BigLogo">Cocoaist</a>
 
+		<hr />
+
 		{{ page.content }}
 
-		<small>Last edited by <b>{{ page.author }}</b>, {{ page.date }}</small>
+		<p class="small right">Last edited by <b>{{ page.author }}</b>, {{ page.date }}</p>
 	</div>
 </body>
 </html>
