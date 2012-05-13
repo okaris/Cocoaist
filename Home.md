@@ -7,11 +7,10 @@ yazılımcılar arasında bir diyalog başlatmak istiyoruz.
 
 Önümüzdeki haftalarda ilk Cocoaist toplantısını düzenleyeceğiz. Eğer Mac veya 
 iOS üzerinde yazılım geliştiriyorsanız veya bu konu ilginizi çekiyorsa, 
-Google Groups'taki Cocoaist listesine üye olarak başlayabilirsiniz:
+Google Groups'taki [Cocoaist listesine](https://groups.google.com/forum/?fromgroups#!forum/cocoaist) 
+üye olarak başlayabilirsiniz:
 
-    https://groups.google.com/forum/?fromgroups#!forum/cocoaist
-
-Ayrıca bizi Twitter'da [@cocoaist](https://twitter.com/#!cocoaist) izleyerek 
-gelişmelerden haberdar olabilirsiniz.
+Ayrıca bizi Twitter'da [@cocoaist](https://twitter.com/#!cocoaist) üzerinden 
+izleyerek gelişmelerden haberdar olabilirsiniz.
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
