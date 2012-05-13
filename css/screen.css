@@ -12,8 +12,17 @@ body {
 }
 
 #Container {
-    width: 960px;
-    margin: 0px auto 0px auto;
+    width: 320px;
+    padding: 0px 8px 0px 8px;
+    margin: 20px auto 10px auto;
+}
+
+#BigLogo {
+    height: 55px;
+    display: block;
+    text-indent: -9999px;
+    margin: 0px 0px 15px 0px;
+    background: transparent url("../images/logo-cocoaist.png") 50% 50% no-repeat;
 }
 
 /* @end */
