@@ -1,0 +1,19 @@
+/*
+ *	Title: CSS Styles for cocoaist.org
+ *	Date: May 13, 2012
+ *  Author: Taylan Pince (taylan at hippofoundry dot com)
+ */
+
+
+/* @group Global */
+
+body {
+    background-color: #dedac5;
+}
+
+#Container {
+    width: 960px;
+    margin: 0px auto 0px auto;
+}
+
+/* @end */
