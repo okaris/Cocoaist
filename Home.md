@@ -22,8 +22,8 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 
 19 Ekim 2012 Toplantısı
 -----------------------
-Tarih: 19 Ekim Cuma
-Saat: 19:00
-Yer: [Burasi](http://www.burasiofis.com)
-Adres: İpek Sokak 1/3 Beyoğlu
+Tarih: 19 Ekim Cuma  
+Saat: 19:00  
+Yer: [Burasi](http://www.burasiofis.com)  
+Adres: İpek Sokak 1/3 Beyoğlu  
 Harita: <http://goo.gl/maps/8aukw>
