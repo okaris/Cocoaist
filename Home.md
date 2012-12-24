@@ -25,7 +25,7 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 Tarih: 22 Aralık Cumartesi  
 Saat: 13:00  
 Yer: [Blogger's Base](http://www.bloggersbase.net)  
-Adres: Dibek Sok. No:17 Galata
+Adres: Dibek Sok. No:17 Galata  
 Harita: <http://goo.gl/maps/lqTfH>
 
 
