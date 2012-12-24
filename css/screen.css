@@ -11,6 +11,14 @@ body {
     background-color: #dedac5;
 }
 
+a {
+    font-weight: bold;
+    color: #DF3A1B;
+}
+a:visited{
+    color: #5E3A14;   
+}
+
 #Container {
     width: 640px;
     padding: 0px 8px 0px 8px;
