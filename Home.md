@@ -20,6 +20,15 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
 
+22 Aralık 2012 Toplantısı
+-------------------------
+Tarih: 22 Aralık Cumartesi  
+Saat: 13:00  
+Yer: [Blogger's Base](http://www.bloggersbase.net)  
+Adres: Dibek Sok. No:17 Galata
+Harita: <http://goo.gl/maps/lqTfH>
+
+
 19 Ekim 2012 Toplantısı
 -----------------------
 Tarih: 19 Ekim Cuma  
