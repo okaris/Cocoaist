@@ -20,6 +20,16 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
 
+23 Ocak 2013 Toplantısı
+-----------------------
+Tarih: 23 Ocak Çarşamba  
+Saat: 20:00  
+Etkinlik Detayları: <http://tinyurl.com/cocoaist-23-ocak>
+Yer: [Journey Bar](http://www.journeycihangir.com)  
+Adres: Akarsu Cad. No:21 Cihangir  
+Harita: <http://goo.gl/maps/PyBbE>
+
+
 22 Aralık 2012 Toplantısı
 -------------------------
 Tarih: 22 Aralık Cumartesi  
