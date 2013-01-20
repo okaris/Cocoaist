@@ -24,7 +24,7 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 -----------------------
 Tarih: 23 Ocak Çarşamba  
 Saat: 20:00  
-Etkinlik Detayları: <http://tinyurl.com/cocoaist-23-ocak>
+Etkinlik Detayları: <http://tinyurl.com/cocoaist-23-ocak>  
 Yer: [Journey Bar](http://www.journeycihangir.com)  
 Adres: Akarsu Cad. No:21 Cihangir  
 Harita: <http://goo.gl/maps/PyBbE>
