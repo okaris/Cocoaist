@@ -20,6 +20,16 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
 
+4 Mayıs 2013 Toplantısı
+-----------------------
+Tarih: 4 Mayıs Cumartesi  
+Saat: 13:00  
+Etkinlik Detayları: <http://tinyurl.com/cocoaist-4-mayis>  
+Yer: [Journey Bar](http://www.journeycihangir.com)  
+Adres: Akarsu Cad. No:21 Cihangir  
+Harita: <http://goo.gl/maps/PyBbE>
+
+
 23 Ocak 2013 Toplantısı
 -----------------------
 Tarih: 23 Ocak Çarşamba  
