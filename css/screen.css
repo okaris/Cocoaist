@@ -33,14 +33,6 @@ a:visited{
     background: transparent url("../images/logo-cocoaist.png") 50% 50% no-repeat;
 }
 
-#BigLogoHackathon {
-    height: 55px;
-    display: block;
-    text-indent: -9999px;
-    margin: 0px 0px 25px 0px;
-    background: transparent url("../images/logo-cocoaist.png") 50% 50% no-repeat;
-}
-
 hr {
     height: 1px;
     border: none;

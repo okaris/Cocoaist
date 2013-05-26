@@ -8,7 +8,9 @@
 /* @group Global */
 
 body {
-    background-color: #dedac5;
+    background-color: #ede4d3;
+    background-image:url('../images/Hackathon-Repeat-Header.png');
+    background-repeat:repeat-x;
 }
 
 a {
@@ -31,6 +33,14 @@ a:visited{
     text-indent: -9999px;
     margin: 0px 0px 25px 0px;
     background: transparent url("../images/logo-cocoaist.png") 50% 50% no-repeat;
+}
+
+#BigLogoHackathon {
+    height: 150px;
+    display: block;
+    text-indent: -9999px;
+    margin: 100px 0px 25px 0px;
+    background: transparent url("../images/logo-hackathon.png") 50% 50% no-repeat;
 }
 
 hr {
